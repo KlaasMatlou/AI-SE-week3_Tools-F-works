@@ -1,0 +1,7 @@
+https://934a-105-4-6-110.ngrok-free.app
+
+Stramlit app webkey for CNN MODEL
+
+The app can only run when I am online as well from my side, if i am off, my instructor can't access it
+
+its made from ngrok 
